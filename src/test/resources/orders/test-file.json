@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "customer": "John Doe",
+    "date": "2024-04-09",
+    "statusPayment": true,
+    "description": "Sneakers, Socks, Toothpaste",
+    "totalPrice": 100.00
+  },
+  {
+    "id": 2,
+    "customer": "Alice Smith",
+    "date": "2024-04-09",
+    "statusPayment": false,
+    "description": "Socks, Brush, Toothpaste, Toothpaste",
+    "totalPrice": 75.50
+  }
+]
